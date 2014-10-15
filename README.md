@@ -1,3 +1,21 @@
+# BIOMD0000000386: 
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000386.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000386.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -26,4 +44,5 @@ data set of Zhu et al. (2007,
 detailed description of all modifications is given in the model described by
 Arnold and Nikoloski (2011,
 [PMID:22001849](http://www.ncbi.nlm.nih.gov/pubmed/22001849) .
+
 
